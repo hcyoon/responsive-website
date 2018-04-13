@@ -1,8 +1,8 @@
 # Responsive Website
 
-<a href="http://aidesign.kr/github/responsive-website/" target="_blank"><img src="https://github.com/hcyoon/responsive-website/blob/master/sample_view.jpg" alt="sample view" /></a>
+<a href="http://bdmp-003.cafe24.com/bizdemo47587/" target="_blank"><img src="https://github.com/hcyoon/responsive-website/blob/master/sample_view.jpg" alt="sample view" /></a>
 
-[Sample View](http://aidesign.kr/github/responsive-website/)
+[Sample View](http://bdmp-003.cafe24.com/bizdemo47587/)
 
 
 
